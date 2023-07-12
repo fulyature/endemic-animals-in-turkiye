@@ -1,11 +1,5 @@
 const data = [
   {
-    type: "Toros Sivriburunlu Böcekçili (Crocidura arispa)",
-    src: {
-      link: "https://www.plumemag.com/wp-content/uploads/2021/04/sivri-burunlu-bocekcil.jpg.webp",
-    },
-  },
-  {
     type: "Van Kedisi",
     src: {
       link: "https://www.plumemag.com/wp-content/uploads/2021/04/van-kedisi.jpg",
@@ -20,7 +14,7 @@ const data = [
   {
     type: "Akdeniz Foku (Monachus monachus)",
     src: {
-      link: "https://www.plumemag.com/wp-content/uploads/2021/04/akdeniz-fok-baligi.jpg",
+      link: "https://www.ilerihaber.org/assets/images/img_lib/crop_images/userfiles/haber-ici_1754.jpg",
     },
   },
   {
@@ -50,7 +44,7 @@ const data = [
   {
     type: "Midilli",
     src: {
-      link: "https://icdn.ensonhaber.com/resimler/galeri/Turkiyede_yaYayan_endemik_hayvan_turleri.jpg",
+      link: "https://i2.milimaj.com/i/milliyet/75/0x0/6245545d86b244233cf801fb.jpg",
     },
   },
   {
@@ -81,6 +75,12 @@ const data = [
     type: "Toros Kurbağası",
     src: {
       link: "https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/bp-770px-custom_user_desktop_1x/public/toros_kurbagasi_2_1.jpg?itok=22EH_zUh",
+    },
+  },
+  {
+    type: "Toros Sivriburunlu Böcekçili (Crocidura arispa)",
+    src: {
+      link: "https://www.plumemag.com/wp-content/uploads/2021/04/sivri-burunlu-bocekcil.jpg.webp",
     },
   },
   {

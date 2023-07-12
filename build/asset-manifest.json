@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/endemic-animals-in-turkiye/static/js/main.b9fb42aa.js",
+    "main.css": "/endemic-animals-in-turkiye/static/css/main.fd88ac22.css",
+    "main.js": "/endemic-animals-in-turkiye/static/js/main.87a21c05.js",
     "index.html": "/endemic-animals-in-turkiye/index.html",
-    "main.b9fb42aa.js.map": "/endemic-animals-in-turkiye/static/js/main.b9fb42aa.js.map"
+    "main.fd88ac22.css.map": "/endemic-animals-in-turkiye/static/css/main.fd88ac22.css.map",
+    "main.87a21c05.js.map": "/endemic-animals-in-turkiye/static/js/main.87a21c05.js.map"
   },
   "entrypoints": [
-    "static/js/main.b9fb42aa.js"
+    "static/css/main.fd88ac22.css",
+    "static/js/main.87a21c05.js"
   ]
 }
